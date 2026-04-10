@@ -83,14 +83,6 @@ I'm a **42 Silicon Valley** alumna, which means I learned to code by debugging o
 
 ---
 
-## 🏢 What I Build at Webly
-
-At **[Webly Digital Studio](https://weblydev.com)** I work with startups and small businesses to ship full-stack products — custom web apps, AI automations, e-commerce platforms, and FileMaker database systems. 5.0 ⭐ on Upwork · Top Rated · 100% Job Success.
-
-> *"Valeriia did an amazing job — so much value delivered on time. Exceptional quality, and I learned things I didn't even know I needed to cover."*
-
----
-
 ## 📬 Let's Connect
 
 - 💼 Open to **AI/full-stack collaborations** and **consulting engagements**
