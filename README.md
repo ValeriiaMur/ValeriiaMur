@@ -69,5 +69,5 @@ I'm a **42 Silicon Valley** alumna, which means I learned to code by debugging o
 ---
 
 <div align="center">
-<sub>Built with stubbornness, curiosity, and too many open tabs.</sub>
+<sub>Built with stubbornness, curiosity, too many cups of coffee and too many open tabs.</sub>
 </div>
