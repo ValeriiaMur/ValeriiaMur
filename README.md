@@ -1,16 +1,104 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ValeriiaMur/ValeriiaMur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Valerie 👋
 
-Here are some ideas to get you started:
+**Full-Stack Engineer · AI Builder · 42 Silicon Valley Alumna**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Fort Lauderdale, FL · Founder @ [Webly Digital Studio](https://weblydev.com)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeriiamuradian/)
+[![Portfolio](https://img.shields.io/badge/Webly-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://weblydev.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@valerie_m)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015fca5bb71dba8db0)
+
+</div>
+
+---
+
+## About Me
+
+I build things at the intersection of **full-stack engineering and AI** — from real-time collaborative tools with agent-driven workflows to RAG pipelines that make legacy codebases legible again.
+
+By day I'm an engineer at **StickerGiant**. Outside of that, I run **Webly Digital Studio**, where I've shipped 50+ projects across real estate, e-commerce, health, and fintech — and increasingly, AI automation is at the core of all of it.
+
+I'm a **42 Silicon Valley** alumna, which means I learned to code by debugging other people's C with no teachers and no Stack Overflow lifelines. That stubbornness never really left.
+
+---
+
+## 🤖 Featured AI Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Cobol-Academy**](https://github.com/ValeriiaMur/Cobol-Academy) | AI-powered learning platform for COBOL — ask questions in plain English, get answers grounded in real compiler source code with file paths & line numbers | RAG · TypeScript · GnuCOBOL |
+| [**CollabBoard**](https://github.com/ValeriiaMur/CollabBoard) | Real-time collaborative whiteboard with AI agents embedded into the canvas | Next.js · tldraw · Yjs · PartyKit |
+| [**My-Ghostfolio**](https://github.com/ValeriiaMur/My-Ghostfolio) | Conversational AI agent layered on top of Ghostfolio — talk to your portfolio in natural language | TypeScript · LLM |
+| [**Learn-AI-Agent-CS50**](https://github.com/ValeriiaMur/Learn-AI-Agent-CS50-AI) | Agentic AI tutor with RAG, multi-agent orchestration, tiered model routing, and full LangSmith observability | LangGraph · OpenAI · Llama · Chroma · Python |
+| [**AEO/GEO/SEO Analyzer**](https://geo-analyzer.com/) | Smart SEO analyzer with AI-powered reporting for geo-targeted optimization | AI · Analytics |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**CMS / E-Commerce**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![FileMaker](https://img.shields.io/badge/FileMaker-68A723?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Valerie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValeriiaMur&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeriiaMur&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏢 What I Build at Webly
+
+At **[Webly Digital Studio](https://weblydev.com)** I work with startups and small businesses to ship full-stack products — custom web apps, AI automations, e-commerce platforms, and FileMaker database systems. 5.0 ⭐ on Upwork · Top Rated · 100% Job Success.
+
+> *"Valeriia did an amazing job — so much value delivered on time. Exceptional quality, and I learned things I didn't even know I needed to cover."*
+
+---
+
+## 📬 Let's Connect
+
+- 💼 Open to **AI/full-stack collaborations** and **consulting engagements**
+- 📧 [valerie@weblydev.com](mailto:valerie@weblydev.com)
+- 📅 [Book a 30-min call](https://calendly.com/valerie-weblydev/30min)
+
+---
+
+<div align="center">
+<sub>Built with stubbornness, curiosity, and too many open tabs.</sub>
+</div>
