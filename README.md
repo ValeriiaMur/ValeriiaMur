@@ -25,18 +25,6 @@ I'm a **42 Silicon Valley** alumna, which means I learned to code by debugging o
 
 ---
 
-## 🤖 Featured AI Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Cobol-Academy**](https://github.com/ValeriiaMur/Cobol-Academy) | AI-powered learning platform for COBOL — ask questions in plain English, get answers grounded in real compiler source code with file paths & line numbers | RAG · TypeScript · GnuCOBOL |
-| [**CollabBoard**](https://github.com/ValeriiaMur/CollabBoard) | Real-time collaborative whiteboard with AI agents embedded into the canvas | Next.js · tldraw · Yjs · PartyKit |
-| [**My-Ghostfolio**](https://github.com/ValeriiaMur/My-Ghostfolio) | Conversational AI agent layered on top of Ghostfolio — talk to your portfolio in natural language | TypeScript · LLM |
-| [**Learn-AI-Agent-CS50**](https://github.com/ValeriiaMur/Learn-AI-Agent-CS50-AI) | Agentic AI tutor with RAG, multi-agent orchestration, tiered model routing, and full LangSmith observability | LangGraph · OpenAI · Llama · Chroma · Python |
-| [**AEO/GEO/SEO Analyzer**](https://geo-analyzer.com/) | Smart SEO analyzer with AI-powered reporting for geo-targeted optimization | AI · Analytics |
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
