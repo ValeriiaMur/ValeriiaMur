@@ -2,7 +2,7 @@
 
 # Hey, I'm Valerie 👋
 
-**Full-Stack Engineer · AI Builder · 42 Silicon Valley Alumna**
+**Full-Stack Engineer · AI-First Builder · 42 Silicon Valley Alumna**
 
 *Fort Lauderdale, FL · Founder @ [Webly Digital Studio](https://weblydev.com)*
 
